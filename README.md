@@ -14,8 +14,10 @@ Welcome to the **Secure Multi-User Encryption App**! This application allows you
 ```bash
 git clone https://github.com/Zaibunis/secure-data-encryption-by-faria-mustaqim.git
 cd secure-data-encryption-by-faria-mustaqim
+
 2. Install required dependencies
 pip install -r requirements.txt
+
 3. Run the application
 streamlit run app.py
 ```
@@ -26,14 +28,11 @@ Upon opening the app, you'll see the Home Page where you can navigate to various
 
 📂 Store Data
 Enter your Username and Passkey.
-
 Input the secret data you wish to store.
-
 The app will encrypt the data and hash your passkey before saving it securely.
 
 🔍 Retrieve Data
 Enter your Username and Passkey.
-
 If the credentials are correct, the app will decrypt and display your stored data.
 
 🔑 Login Page
@@ -41,10 +40,8 @@ You can reauthorize the app using the Master Password to reset failed attempts a
 
 🛠️ Technologies Used
 🧑‍💻 Streamlit: For the user interface.
-
 🔒 Cryptography: For encryption and hashing.
-
 🛠️ Python: The primary programming language.
 
-🙋‍♀️ Author
-Faria Mustaqim
+🙋‍♀️ Author:
+✅ Built with 💖 by [Faria Mustaqim](https://github.com/Zaibunis)
