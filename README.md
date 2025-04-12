@@ -11,20 +11,15 @@ Welcome to the **Secure Multi-User Encryption App**! This application allows you
 
 ## 🚀 Installation
 
-### 1. Clone the repository
 ```bash
-git clone https://github.com/Zaibunis/secure-data-encryption.git
-cd secure-data-encryption
+git clone https://github.com/Zaibunis/secure-data-encryption-by-faria-mustaqim.git
+cd secure-data-encryption-by-faria-mustaqim
 2. Install required dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3. Run the application
-bash
-Copy
-Edit
 streamlit run app.py
+```
+
 📝 How to Use
 🏠 Home Page
 Upon opening the app, you'll see the Home Page where you can navigate to various sections.
